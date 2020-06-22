@@ -1,4 +1,3 @@
-SERBOI FLOREA-DAN 325CB
 Am ales sa implementez tema in Java. Avem doar o clasa, clasa main, care contine doar metoda main.
 In aceasta metoda realizam citirea grafului din fisier si scrierea transformarii realizate in 
 fisierul cerut.
